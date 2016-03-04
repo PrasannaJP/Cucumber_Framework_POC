@@ -1,0 +1,11 @@
+TestComplete 11.11 includes a number of performance improvements and bug fixes that increase test stability and performance:
+
+Web tests working with Google Chrome now run faster.
+
+Also, we have fixed performance issues that might occur during test recording in Chrome.
+
+We have updated licensing modules to fix an issue that might occur when you are activating licenses on Windows 10.
+
+A number of other bugs have been fixed.
+
+The list above mentions the changes made to the product relative to the previous version – TestComplete 11.1. For information on the changes made to other versions, see Version History.

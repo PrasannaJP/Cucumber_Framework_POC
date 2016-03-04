@@ -1,0 +1,10 @@
+TestComplete is a functional automated testing platform developed by SmartBear Software. TestComplete gives testers the ability to create automated tests for Microsoft Windows, Web, Android (operating system), and iOS applications. Tests can be recorded, scripted or manually created with keyword driven operations and used for automated playback and error logging.
+
+TestComplete is broken out into three modules:
+
+Desktop
+Web
+Mobile
+Each module contains functionality for creating automated tests on that specified platform.
+
+TestComplete is used for testing many different application types including Web, Windows, Android, iOS, WPF, HTML5, Flash, Flex, Silverlight, .NET, VCL and Java.[1] It automates functional testing and back-end testing like database testing.

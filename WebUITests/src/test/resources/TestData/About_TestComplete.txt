@@ -1,0 +1,15 @@
+TestComplete is an automated testing environment for a wide range of application types and technologies, including (but not limited to) Windows, .NET, WPF, Visual C++, Visual Basic, Delphi, C++Builder, Java and Web applications and services.
+
+TestComplete is oriented equally to functional and unit testing. It provides superior support for daily regression testing and supports many other kinds of testing: data-driven testing, distributed testing, and others.
+
+You create tests by recording them or editing test commands in TestComplete’s panels and editors. Tests can be run from within TestComplete or they can be exported to an external application and run there.
+
+TestComplete recognizes objects and controls in tested applications and offers special commands for simulating user actions with them. It also offers specific checkpoints that let you easily verify the application state during the test run.
+
+If the built-in means are insufficient for simulating user actions on the tested application or checking the application state, you can take advantage of accessing the application’s internal objects, methods and properties to perform the needed tasks.
+
+If you are new to TestComplete, see Getting Started to learn how to use the product.
+
+To get to know basic concepts, please read Introducing Automated Testing and TestComplete (this section is part of the Getting Started section).
+
+To learn more about new features, review What’s New.
